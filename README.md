@@ -10,7 +10,7 @@ Sou Victor Nery, programador Front-End apaixonado por criar interfaces web intui
 <br>
 Conecte-se comigo:
 <br>
-<a href="https://www.instagram.com/victorneryd?igsh=d2lhOW12Nm8yY3ow&utm_source=qr"> 
+<a href="https://www.instagram.com/victorneryd"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="80px" alt="logo-intagram">
 </a>
 <a href="www.linkedin.com/in/victor-nery-441a1b109"> 
