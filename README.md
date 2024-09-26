@@ -10,10 +10,10 @@ Sou Victor Nery, programador Front-End apaixonado por criar interfaces web intui
 <br>
 Conecte-se comigo:
 <br>
-<a href="https://www.instagram.com/victorneryd"> 
+<a href="https://www.instagram.com/victorneryd?igsh=d2lhOW12Nm8yY3ow&utm_source=qr"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="80px" alt="logo-intagram">
 </a>
-<a href="www.linkedin.com/in/victor-nery-441a1b109"> 
+<a href="https://www.linkedin.com/in/victor-nery-441a1b109?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70px" alt="logo-linkedin">
 </a>
 <br>
